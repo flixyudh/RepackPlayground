@@ -1,0 +1,12 @@
+{
+  "name": "super-app-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Flix",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@4.11.0"
+}
